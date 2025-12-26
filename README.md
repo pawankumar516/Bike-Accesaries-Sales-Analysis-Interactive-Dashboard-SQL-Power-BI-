@@ -6,7 +6,7 @@ The objective is to extract meaningful business insights from raw sales data and
 
 This project is designed to demonstrate **real-world data analyst skills**, including querying, KPI creation, trend analysis, and dashboard storytelling.
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 - **SQL** – Data extraction, cleaning, transformation, and analysis  
 - **Power BI** – Data modeling, DAX measures, and dashboard creation  
 - **Database** – Relational SQL database  
@@ -18,7 +18,7 @@ This project is designed to demonstrate **real-world data analyst skills**, incl
 ##  SQL Analysis – Business Questions Solved
 The SQL file answers the following **real-world business questions**:
 
-### 📌 Basic QUERIES
+###  Basic QUERIES
 1.  Total Sales Overview**?
 2. Sales by Product Category**?
 3. Customer Segmentation by Age Group**?
